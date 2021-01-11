@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Quincynguyen</h1>
+<h1 style = "color:pink;" align="center">Hi 👋, I'm QuincyNguyen</h1>
 <h3 align="center">A Magento developer from VietNam</h3>
 
 - 🔭 I’m currently working on **Magento extension**
