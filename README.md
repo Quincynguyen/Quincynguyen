@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Magento extension**
 
-- 🤝 I’m looking for help with **Magento extension**
+- 🤝 I’m looking for help with **Magento extension** , **Javascript**, **PHP**
 
 - 📫 How to reach me **quynh080897@gmail.com**
 
